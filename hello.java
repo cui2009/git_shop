@@ -12,4 +12,6 @@ public class hello{
 
 	public void test5(){
 }
+	public void test6(){
+}
 }
